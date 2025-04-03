@@ -1,5 +1,31 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
+# Yhael Lopez Personal Website
+
+This is the repository for Yhael Lopez's personal website, showcasing his resume, skills, and professional background.
+
+## Features
+- Responsive design for all devices
+- Interactive modal pages for different sections
+- Resume viewer with download option
+- Contact information and social links
+- Clean, modern aesthetics
+
+## Technical Details
+- Built using HTML5, CSS3, and JavaScript
+- Uses the Dimension template by HTML5 UP as a foundation
+- Hosted on GitHub Pages
+
+## How to Update
+1. Make your changes to the HTML, CSS, or JavaScript files
+2. Test locally by opening index.html in your browser
+3. Commit and push changes to the GitHub repository
+4. GitHub Pages will automatically deploy the updated site
+
+## Credits
+- Template: Dimension by HTML5 UP (html5up.net | @ajlkn)
+- Icons: Font Awesome (fontawesome.io)
+- Other libraries: jQuery, Responsive Tools
+
+## License
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
